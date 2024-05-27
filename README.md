@@ -16,6 +16,6 @@ To run the source code files
 
 | Model name         |    Accuracy     |   sensitivity  |
 | ------------------ |---------------- | -------------- |
-| My MLPC model      |     99.48%      |      99.79%    |
+| My EDTC model      |     99.48%      |      99.79%    |
 
 >📋  The published paper from this research project can be found at https://www.ijcseonline.org/full_paper_view.php?paper_id=4799
